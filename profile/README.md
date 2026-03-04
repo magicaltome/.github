@@ -1,3 +1,3 @@
-# Welcome to Magicaltome 👋
+# Lightfield
 
-We are building magical experiences. Stay tuned for more!
+Engineered for the future
